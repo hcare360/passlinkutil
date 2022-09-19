@@ -9,6 +9,8 @@ This software IP is owned by Numantratech LLC.
 ## How to get access 
 Contact admin@numantratech.ai to get pricing and licensing details
 
+### Version Details
+The current version of the software is 1.0.1
 
 
 
